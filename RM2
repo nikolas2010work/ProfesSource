@@ -1,1 +1,7 @@
-The text has been changed!
+#include <iostream>
+
+using namespace std;
+
+void main()
+{
+}
