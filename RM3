@@ -1,0 +1,10 @@
+
+package main_pac
+
+class main_class
+{
+	public static void int main(String[] args)
+	{
+		System.out.println("Java test");
+	}
+}
